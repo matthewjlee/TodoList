@@ -9,8 +9,8 @@ This todo list is based off the structure/mechanics provided by http://todomvc.c
 (We're using vanillajs because we're using *pure* js)
 
 BTW, it's not looking too sexy because I just messed with the HTML and JS files. Maybe I'll deal with CSS later lol.
+Here are some demos below:
 
-Some demos:
 [![https://gyazo.com/ac3e1f0765afafa9d0e8f1dc3af3328e](https://i.gyazo.com/ac3e1f0765afafa9d0e8f1dc3af3328e.gif)](https://gyazo.com/ac3e1f0765afafa9d0e8f1dc3af3328e)
 
 [![https://gyazo.com/d8770072212880b2d738a7d302f6d095](https://i.gyazo.com/d8770072212880b2d738a7d302f6d095.gif)](https://gyazo.com/d8770072212880b2d738a7d302f6d095)
